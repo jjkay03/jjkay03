@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Creator/Developer/Video Maker)`**
 
-Text
+I code things sometimes, and then I put them here. I'm not really good at it, but I'm trying my best, and it works (sometimes). Most of the stuff you will find here at the moment will be related to Discord bots or things that have to do with Minecraft. Feel free to take a look!
 
 <p align="left">
       <a href="https://www.youtube.com/c/jjkay03?sub_confirmation=1">
@@ -25,4 +25,3 @@ Text
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <br />
 
-#
