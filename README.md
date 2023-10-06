@@ -1,6 +1,6 @@
 # 🦊 Ray AKA jjkay03
 
-**`Digital Craftsman (Creator/Developer/Video Maker)`**
+**`🎖 Digital Craftsman (Creator/Developer/Video Maker)`**
 
 I code things sometimes, and then I put them here. I'm not really good at it, but I'm trying my best, and it works (sometimes). Most of the stuff you will find here at the moment will be related to Discord bots or things that have to do with Minecraft. Feel free to take a look!
 
