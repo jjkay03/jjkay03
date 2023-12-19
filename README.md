@@ -11,7 +11,7 @@ I code things sometimes, and then I put them here. I'm not really good at it, bu
 <a href="https://github.com/jjkay03?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jjkay03?color=55960c&style=flat&labelColor=488207&logo=star"/></a>
 </p>
 
-## <img src="https://slackmojis.com/emojis/60827-foxdance/download" width="25"/> Thing I can use
+## <img src="https://slackmojis.com/emojis/60827-foxdance/download" width="25"/> Things I can use
 
 This is a non exhaustive list of things I can use including: programing languages, softwares ect.
 
