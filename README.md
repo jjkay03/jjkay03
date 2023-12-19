@@ -1,4 +1,4 @@
-# 🦊 Ray AKA jjkay03
+# <img src="https://emojis.slackmojis.com/emojis/images/1643515277/12976/fox_jump.gif?1643515277" width="30"/> Ray AKA jjkay03
 
 **`🎖 DIGITAL CRAFTSMAN (Creator/Developer/Video Maker)`**
 
