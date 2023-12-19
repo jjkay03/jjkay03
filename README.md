@@ -13,4 +13,27 @@ I code things sometimes, and then I put them here. I'm not really good at it, bu
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jjkay03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/jjkay03?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jjkay03?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+</p>
+<br>
+
+# <img src="https://slackmojis.com/emojis/60827-foxdance/download" width="30"/> Thing I can use
+
+<p align="left">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-language?logo=python&logoColor=white&color=3776AB">
+<img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-language?logo=Kotlin&logoColor=white&color=7F52FF">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-language?logo=csharp&logoColor=white&color=%23512BD4">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-language?logo=html5&logoColor=white&color=E34F26">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-language?logo=CSS3&logoColor=white&color=%231572B6">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-language?logo=javascript&logoColor=black&color=%23F7DF1E">
+<img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-language?logo=visualstudiocode&logoColor=white&color=%23007ACC">
+<img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-language?logo=visualstudio&logoColor=white&color=%235C2D91">
+<img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-language?logo=intellijidea&logoColor=white&color=%23bd2c6e">
+<img alt="Static Badge" src="https://img.shields.io/badge/FileZilla-language?logo=filezilla&logoColor=white&color=%23BF0000">
+<img alt="Static Badge" src="https://img.shields.io/badge/Obsidian-language?logo=obsidian&logoColor=white&color=%237C3AED">
+<img alt="Static Badge" src="https://img.shields.io/badge/Aseprite-language?logo=aseprite&logoColor=white&color=%237D929E">
+<img alt="Static Badge" src="https://img.shields.io/badge/OBS%20Studio-language?logo=obsstudio&logoColor=white&color=%23302E31">
+<img alt="Static Badge" src="https://img.shields.io/badge/Premiere%20Pro-language?logo=adobepremierepro&logoColor=white&color=de66ff">
+<img alt="Static Badge" src="https://img.shields.io/badge/After%20Effects-language?logo=adobeaftereffects&logoColor=white&color=%239999FF">
+<img alt="Static Badge" src="https://img.shields.io/badge/Photoshop-language?logo=adobephotoshop&logoColor=white&color=%2331A8FF">
+</p>
+
