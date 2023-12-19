@@ -4,8 +4,6 @@
 
 I code things sometimes, and then I put them here. I'm not really good at it, but I'm trying my best, and it works (sometimes). Most of the stuff you will find here at the moment will be related to Discord bots or things that have to do with Minecraft. Feel free to take a look!
 
-You can also view [my website](https://jjkay03.com/) if you are intrested in viewing all my projects.
-
 <p align="left">
 <a href="https://www.youtube.com/c/jjkay03?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUnaLtRXTH6tnh6MwtFVA1A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=flat&labelColor=FF0000"/></a> 
 <a href="https://www.youtube.com/c/jjkay03"><img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCUnaLtRXTH6tnh6MwtFVA1A?color=%23B7B7B7&logo=eye&logoColor=white&style=flat&labelColor=8D8D8D"/></a> 
