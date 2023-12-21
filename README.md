@@ -18,10 +18,12 @@ This is a non exhaustive list of things I can use including: programing language
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-language?logo=python&logoColor=white&color=3776AB">
 <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-language?logo=Kotlin&logoColor=white&color=7F52FF">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23-language?logo=csharp&logoColor=white&color=%23512BD4">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-language?logo=csharp&logoColor=white&color=512BD4">
+<img alt="Static Badge" src="https://img.shields.io/badge/Lua-language?logo=lua&logoColor=white&color=2C2D72">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-language?logo=html5&logoColor=white&color=E34F26">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-language?logo=CSS3&logoColor=white&color=%231572B6">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-language?logo=javascript&logoColor=black&color=%23F7DF1E">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-language?logo=CSS3&logoColor=white&color=1572B6">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-language?logo=javascript&logoColor=black&color=F7DF1E">
+<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-language?logo=mysql&logoColor=white&color=4479A1">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-language?logo=visualstudiocode&logoColor=white&color=%23007ACC">
 <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-language?logo=visualstudio&logoColor=white&color=%235C2D91">
