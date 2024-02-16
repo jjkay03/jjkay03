@@ -28,6 +28,7 @@ This is a non exhaustive list of things I can use including: programing language
 <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-language?logo=visualstudiocode&logoColor=white&color=%23007ACC">
 <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-language?logo=visualstudio&logoColor=white&color=%235C2D91">
 <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-language?logo=intellijidea&logoColor=white&color=%23bd2c6e">
+<img alt="Static Badge" src="https://img.shields.io/badge/Unity-language?logo=unity&logoColor=white&color=4c4c4c">
 <img alt="Static Badge" src="https://img.shields.io/badge/FileZilla-language?logo=filezilla&logoColor=white&color=%23BF0000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Obsidian-language?logo=obsidian&logoColor=white&color=%237C3AED">
 <img alt="Static Badge" src="https://img.shields.io/badge/Aseprite-language?logo=aseprite&logoColor=white&color=%237D929E">
