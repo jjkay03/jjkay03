@@ -38,8 +38,6 @@ This is a non exhaustive list of things I can use including: programing language
 <img alt="Static Badge" src="https://img.shields.io/badge/Premiere%20Pro-language?logo=adobepremierepro&logoColor=white&color=de66ff">
 <img alt="Static Badge" src="https://img.shields.io/badge/After%20Effects-language?logo=adobeaftereffects&logoColor=white&color=%239999FF">
 <img alt="Static Badge" src="https://img.shields.io/badge/Photoshop-language?logo=adobephotoshop&logoColor=white&color=%2331A8FF">
-<img alt="Static Badge" src="https://img.shields.io/badge/Minecraft%20Dev-language?logo=spigotmc&logoColor=white&color=51a83f">
-<img alt="Static Badge" src="https://img.shields.io/badge/Discord%20Dev-language?logo=discord&logoColor=white&color=5865F2">
 
 </p>
 
