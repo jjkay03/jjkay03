@@ -2,7 +2,7 @@
 
 **`🎖 DIGITAL CRAFTSMAN (Creator/Developer/Video Maker)`**
 
-I code things sometimes, and then I put them here. I'm not really good at it, but I'm trying my best, and it works (sometimes). Most of the stuff you will find here at the moment will be related to Minecraft, Discord bots or Python projects. Feel free to take a look!
+I code things sometimes, and then I put them here. I'm not really good at it, but I'm trying my best, and it works (sometimes). Most of the stuff you will find here at the moment will be related to Minecraft, Games dev, Discord bots or Python projects. Feel free to take a look!
 
 <p align="left">
 <a href="https://www.youtube.com/c/jjkay03?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUnaLtRXTH6tnh6MwtFVA1A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=flat&labelColor=FF0000"/></a> 
