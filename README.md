@@ -25,12 +25,14 @@ This is a non exhaustive list of things I can use including: programing language
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-language?logo=javascript&logoColor=black&color=F7DF1E">
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-language?logo=mysql&logoColor=white&color=4479A1">
 
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-language?logo=git&logoColor=white&color=F05032">
 <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-language?logo=visualstudiocode&logoColor=white&color=%23007ACC">
 <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-language?logo=visualstudio&logoColor=white&color=%235C2D91">
 <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-language?logo=intellijidea&logoColor=white&color=%23bd2c6e">
 <img alt="Static Badge" src="https://img.shields.io/badge/Unity-language?logo=unity&logoColor=white&color=4c4c4c">
 <img alt="Static Badge" src="https://img.shields.io/badge/FileZilla-language?logo=filezilla&logoColor=white&color=%23BF0000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Obsidian-language?logo=obsidian&logoColor=white&color=%237C3AED">
+<img alt="Static Badge" src="https://img.shields.io/badge/Figma-language?logo=figma&logoColor=white&color=a259ff">
 <img alt="Static Badge" src="https://img.shields.io/badge/Aseprite-language?logo=aseprite&logoColor=white&color=%237D929E">
 <img alt="Static Badge" src="https://img.shields.io/badge/OBS%20Studio-language?logo=obsstudio&logoColor=white&color=%23302E31">
 <img alt="Static Badge" src="https://img.shields.io/badge/Premiere%20Pro-language?logo=adobepremierepro&logoColor=white&color=de66ff">
