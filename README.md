@@ -28,7 +28,6 @@ This is a non exhaustive list of things I can use including: programing language
 [![Git Badge](https://img.shields.io/badge/Git-language?logo=git&logoColor=white&color=F05032)](https://git-scm.com/)
 [![Unity Badge](https://img.shields.io/badge/Unity-language?logo=unity&logoColor=white&color=4c4c4c)](https://unity.com/)
 [![Godot Badge](https://img.shields.io/badge/Godot-language?logo=godotengine&logoColor=white&color=478CBF)](https://godotengine.org/)
-[![FileZilla Badge](https://img.shields.io/badge/FileZilla-language?logo=filezilla&logoColor=white&color=%23BF0000)](https://filezilla-project.org/)
 [![Obsidian Badge](https://img.shields.io/badge/Obsidian-language?logo=obsidian&logoColor=white&color=%237C3AED)](https://obsidian.md/)
 [![Figma Badge](https://img.shields.io/badge/Figma-language?logo=figma&logoColor=white&color=a259ff)](https://www.figma.com/)
 [![Aseprite Badge](https://img.shields.io/badge/Aseprite-language?logo=aseprite&logoColor=white&color=7D929E)](https://www.aseprite.org/)
