@@ -4,12 +4,12 @@
 
 **`🎖 DIGITAL CRAFTSMAN (Creator/Developer/Video Maker)`**
 
-</div>
-
 <br>
 
-I code things sometimes, and then I put them here. Most of the stuff you will find here at the moment will be related to Games dev, Minecraft, Discord bots or Python projects. Feel free to take a look!
+I code stuff related to **game development, Minecraft, Discord** or random tools, feel free to take a look!
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=kotlin,python,cs,java,lua,html,css,js,mysql,unity,godot" alt="skills"/>
+
+</div>
