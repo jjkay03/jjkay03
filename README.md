@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/jjkay03/jjkay03/main/foxes/fox%201.gif" width="30"/> Ray AKA jjkay03 <img src="https://raw.githubusercontent.com/jjkay03/jjkay03/main/foxes/fox%202.gif" width="35"/>
+# <img src="https://raw.githubusercontent.com/jjkay03/jjkay03/main/foxes/fox%202.gif" width="30"/> Ray AKA jjkay03 <img src="https://raw.githubusercontent.com/jjkay03/jjkay03/main/foxes/fox%201.gif" width="35"/>
 
 **`🎖 DIGITAL CRAFTSMAN (Creator/Developer/Video Maker)`**
 
